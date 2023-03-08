@@ -1,13 +1,16 @@
-# Sample Hardhat Project
+# Secureum Hardhat
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+The architecture has been build with hardhat
 
-Try running some of the following tasks:
+## contracts folder
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+All the contracts analyzed qith audit comments
+
+## quizz Folder
+
+Multiple choice questions about the contrac
+
+## report Folder
+
+Audit Reports of each contract.
+
