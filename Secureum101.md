@@ -11,7 +11,7 @@ Ethereum account contains four fields:
 
     The account's storage (empty by default)
 
-    Ethereum has two different types of accounts:
+Ethereum has two different types of accounts:
 
     Externally Owned Accounts (EOAs) controlled by private keys
 
